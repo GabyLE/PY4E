@@ -1,2 +1,2 @@
 # PY4E
-Ejercicios curson Python For Everybody Coursera
+Ejercicios curso Python For Everybody Coursera
